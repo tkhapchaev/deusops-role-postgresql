@@ -1,1 +1,7 @@
-# deusops-role-postgresql
+PostgreSQL
+=========
+
+License
+-------
+
+BSD
